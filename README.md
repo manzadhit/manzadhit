@@ -11,9 +11,9 @@
 </a>
 </p>
 
-🔭 I'm currently a 6th semester Informatics Engineering student at Halu Oleo University.
+🔭 I'm currently a 7th semester Informatics Engineering student at Halu Oleo University.
 
-☁️ I recently graduated from Bangkit Academy 2024 (Cloud Computing Cohort).
+☁️ I graduated from Bangkit Academy 2024 (Cloud Computing Cohort).
 
 💻 I specialize in Backend Development using Express.js and Laravel.
 
